@@ -6,7 +6,7 @@
 
 ## Demo Preview
 
-![Model Predictions Grid](predictions_grid.png)
+![Model Predictions Grid](predictions__grid.png)
 
 ---
 
